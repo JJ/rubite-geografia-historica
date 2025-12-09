@@ -3,8 +3,11 @@ title: "Rubite, despoblación y patrimonio"
 author: "JJ Merelo"
 format: pdf
 editor: visual
+lang: es
 bibliography: rubite.bib
 link-citations: true
+language:
+  crossref-fig-title: "Figura"
 ---
 
 ## Introducción
