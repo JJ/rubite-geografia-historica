@@ -1,5 +1,5 @@
 ---
-title: "rubite"
+title: "Rubite, despoblación y patrimonio"
 author: "JJ Merelo"
 format: pdf
 editor: visual
@@ -25,8 +25,16 @@ El valor de referencia es el año 2024; en estos factores están tanto aquellos 
 
 ## Rubite
 
+![Vista de Rubite](img/rubite-placa.jpg)
+Según la ficha [del SIMA](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/sima/ficha.htm?mun=18170), Rubite tiene 434 habitantes, 255 hombres frente a 177 mujeres (un ratio de masculinidad del 144%, criterio 8º), con un 28% de la población mayor de 65 años, una variación de la población en los últimos 10 años del -6.4%. Es posible que cumpla los 9 criterios.
+![Calle Rejas](img/rubite-calle-rejas.jpg)
+Llegamos al pueblo desde Granada; se llega por una desviación de la autovía por una carretera infame, con curvas y cuestas que hacen que a veces haya que descender hasta primera marcha y 20 kilómetros por hora; unos 20 kilómetros que se llevan tres cuartos de hora. Aunque hay bastantes coches aparcados y a la entrada había una persona trabajando en un coche, no vimos a nadie hasta que llevábamos un rato en el pueblo. El comercio se limita a una panadería-badulaque y un bar.
 
-Según la ficha [del SIMA](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/sima/ficha.htm?mun=18170)
+En una entrevista con la concesionaria del bar, cuya familia tuvo que empadronarse en el pueblo para tener la concesión, nos comentó que sólo había 60 familias y un único niño, al que llevaban en taxi todos los días a Castell de Ferro al colegio. Hasta que ellos obtuvieron la concesión, en julio, el pueblo había estado sin bar. En general, la despoblación era evidente, y aunque al salir del bar, que daba a las pistas deportivas, vimos a tres niños jugando, en general parece que su elección como objetivo crítico para superar el reto demográfico parece tan justa como imposible de superar.
+
+## Vencer el reto demográfico a través del patrimonio
+
+
 
 
 
