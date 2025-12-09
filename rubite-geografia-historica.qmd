@@ -1,7 +1,9 @@
 ---
 title: "Rubite, despoblación y patrimonio"
 author: "JJ Merelo"
-format: pdf
+format: 
+  pdf:
+    fig-pos: "h!tb"
 editor: visual
 lang: es
 bibliography: rubite.bib
@@ -16,7 +18,7 @@ En el año 2025, la Junta de Andalucía ha publicado su primera estrategia frent
 
 - Densidad de población: < 20 habitantes/Km2
 - Tasa de crecimiento poblacional: < 0%
-- Tasa ce crecimiento vegetativo: < -10%
+- Tasa de crecimiento vegetativo: < -10%
 - Índice de envejecimiento: > 200%
 - Índice de dependencia: > 50%
 - Tasa migratoria: < 0%
@@ -24,12 +26,13 @@ En el año 2025, la Junta de Andalucía ha publicado su primera estrategia frent
 - Ratio de masculinidad: > 105%
 - Tasa de desempleo: > 20,3%
 
-El valor de referencia es el año 2024; en estos factores están tanto aquellos que indican un declive cierto de la población como aquellos, como la tasa de paro, que indican que la población va a abandonar en el futuro buscando mejores oportunidades. El documento incluye una lista de los municipios en cada una de las provincias andaluzas con una prioridad de actuación alta (si cumplen entre 7 y 9 de estos criterios). Granada, con 30 municipios, es la provincia que tiene más con una prioridad alta, 30 de los 77 que hay en toda Andalucía. Esos municipios se concentranen las zonas montañosas de la Contraviesa y Cartuja, en el Altiplano y alrededores, y por la zona de Alhama. Por cercanía y por la facilidad para llevar a cabo un trabajo de campo, elegí Rubite, uno de los dos municipios que, además, tiene costa, lo que representa una paradoja considerable.
+El valor de referencia es el año 2024; en estos factores están tanto aquellos que indican un declive cierto de la población como aquellos, como la tasa de paro, que indican que la población va a abandonar en el futuro buscando mejores oportunidades. El documento incluye una lista de los municipios en cada una de las provincias andaluzas con una prioridad de actuación alta (si cumplen entre 7 y 9 de estos criterios). Granada, con 30 municipios, es la provincia que tiene más con una prioridad alta, 30 de los 77 que hay en toda Andalucía. Esos municipios se concentran en las zonas montañosas de la Contraviesa y Cartuja, en el Altiplano y alrededores, y por la zona de Alhama. Por cercanía y por la facilidad para llevar a cabo un trabajo de campo, elegí Rubite, uno de los dos municipios que, además, tiene costa, lo que representa una paradoja considerable.
 
 ## Rubite
 
 ![Vista de Rubite](img/rubite-placa.jpg)
-Según la ficha [del SIMA](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/sima/ficha.htm?mun=18170), Rubite tiene 434 habitantes, 255 hombres frente a 177 mujeres (un ratio de masculinidad del 144%, criterio 8º), con un 28% de la población mayor de 65 años, una variación de la población en los últimos 10 años del -6.4%. Es posible que cumpla los 9 criterios.
+
+
 ![Calle Rejas](img/rubite-calle-rejas.jpg)
 Llegamos al pueblo desde Granada; se llega por una desviación de la autovía por una carretera infame, con curvas y cuestas que hacen que a veces haya que descender hasta primera marcha y 20 kilómetros por hora; unos 20 kilómetros que se llevan tres cuartos de hora. Aunque hay bastantes coches aparcados y a la entrada había una persona trabajando en un coche, no vimos a nadie hasta que llevábamos un rato en el pueblo. El comercio se limita a una panadería-badulaque y un bar. Viendo una llave en una puerta de una casa, alertamos a una vecina que pasaba por allí que nos dijo que no pasaba nada, que ella también lo hacía. No sólo está despoblada, sino que además nunca va nadie allí: sólo con que hubiera un turista de vez en cuando, ese tipo de prácticas desaparecerían rápidamente.
 
@@ -43,7 +46,7 @@ Rubite ya figuraba en el catastro de Ensenada [@catastro], con una serie de cult
 
 ![Lars y Erika](img/lars-erika-rubite.jpg)
 
-Esta presencia resulta bastant evidente en las placas de las casas, como la que se muestra. Sin embargo, esta inmigración no es capaz de compensar el declive de la población.
+Esta presencia resulta bastante evidente en las placas de las casas, como la que se muestra. Sin embargo, esta inmigración no es capaz de compensar el declive de la población.
 
 Como es evidente, el patrimonio cultural y natural de los pueblos expuestos a la despoblación acaba deteriorándose simplemente por falta de cuidado. En diferentes trabajos [@conservacion,@ballesteros2021linking] se pone en relieve que el patrimonio también puede ser una solución a esta despoblación, proporcionando una economía de servicios que ponga en valor este patrimonio que arraigue a diferentes familias y proporcione incentivos para la conservación del mismo a la vez que crea puestos de trabajo que permitan a la gente vivir en el lugar.
 
@@ -74,7 +77,7 @@ Aunque toda la estructura está renovada, es una evidencia de usos y costumbres 
 
 Finalmente, descubrimos en Rubite un *thomasson* [@farstadvoll2019vestigial], un elemento arquitectónico que, a fuer de haber desaparecido su función original o haber sido creado de esa forma, se convierte en una obra de *hiperarte*, en este caso unas escaleras que no llevan a ningún lugar y que son aprovechadas por un perro para su descanso matutino o diario.
 
-Con los elementos existentes, los explicados más arriba, y los diferentes mosaicos que hay dispersos por la localidad y que rememoran las tradiciones locales, a lo que podemos añadir el cementerio local, se puede confeccionar una ruta de unas dos horas, con excursiones adiconales al Aljibe y al mirador adjunto, desde donde hay una vista inmejorable de la costa. Esas excursiones, que podrían partir, siempre con minibuses, desde el puerto de cruceros de Motril, desde los diferentes municipios cercanos de la costa (aunque desde Playa Granada hay unos 45 minutos) o simplemente comenzar in situ, podría ayudar a potenciar los negocios locales e incluso crear nuevos incentivos para la creación de rutas en bicicleta o de senderismo que comenzaran o terminaran en esta localidad.
+Con los elementos existentes, los explicados más arriba, y los diferentes mosaicos que hay dispersos por la localidad y que rememoran las tradiciones locales, a lo que podemos añadir el cementerio local, se puede confeccionar una ruta de unas dos horas, con excursiones adicionales al Aljibe y al mirador adjunto, desde donde hay una vista inmejorable de la costa. Esas excursiones, que podrían partir, siempre con minibuses, desde el puerto de cruceros de Motril, desde los diferentes municipios cercanos de la costa (aunque desde Playa Granada hay unos 45 minutos) o simplemente comenzar in situ, podría ayudar a potenciar los negocios locales e incluso crear nuevos incentivos para la creación de rutas en bicicleta o de senderismo que comenzaran o terminaran en esta localidad.
 
 Es evidente que si no hay ningún tipo de actividad organizada, a nadie se le ha perdido nada en Rubite. Pero su (relativa) cercanía a la costa puede incentivar un turismo de diario en verano, que puede incrementarse los fines de semana, siguiendo el ejemplo de Frigiliana, un municipio que se ha aprovechado de su cercanía con Nerja para plantar el "completo" en los aparcamientos locales, teniendo mucho menos patrimonio que Rubite, aunque, eso sí, siendo más accesible.
 
