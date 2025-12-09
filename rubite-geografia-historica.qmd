@@ -28,13 +28,33 @@ El valor de referencia es el año 2024; en estos factores están tanto aquellos 
 ![Vista de Rubite](img/rubite-placa.jpg)
 Según la ficha [del SIMA](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/sima/ficha.htm?mun=18170), Rubite tiene 434 habitantes, 255 hombres frente a 177 mujeres (un ratio de masculinidad del 144%, criterio 8º), con un 28% de la población mayor de 65 años, una variación de la población en los últimos 10 años del -6.4%. Es posible que cumpla los 9 criterios.
 ![Calle Rejas](img/rubite-calle-rejas.jpg)
-Llegamos al pueblo desde Granada; se llega por una desviación de la autovía por una carretera infame, con curvas y cuestas que hacen que a veces haya que descender hasta primera marcha y 20 kilómetros por hora; unos 20 kilómetros que se llevan tres cuartos de hora. Aunque hay bastantes coches aparcados y a la entrada había una persona trabajando en un coche, no vimos a nadie hasta que llevábamos un rato en el pueblo. El comercio se limita a una panadería-badulaque y un bar.
+Llegamos al pueblo desde Granada; se llega por una desviación de la autovía por una carretera infame, con curvas y cuestas que hacen que a veces haya que descender hasta primera marcha y 20 kilómetros por hora; unos 20 kilómetros que se llevan tres cuartos de hora. Aunque hay bastantes coches aparcados y a la entrada había una persona trabajando en un coche, no vimos a nadie hasta que llevábamos un rato en el pueblo. El comercio se limita a una panadería-badulaque y un bar. Viendo una llave en una puerta de una casa, alertamos a una vecina que pasaba por allí que nos dijo que no pasaba nada, que ella también lo hacía. No sólo está despoblada, sino que además nunca va nadie allí: sólo con que hubiera un turista de vez en cuando, ese tipo de prácticas desaparecerían rápidamente.
 
 En una entrevista con la concesionaria del bar, cuya familia tuvo que empadronarse en el pueblo para tener la concesión, nos comentó que sólo había 60 familias y un único niño, al que llevaban en taxi todos los días a Castell de Ferro al colegio. Hasta que ellos obtuvieron la concesión, en julio, el pueblo había estado sin bar. En general, la despoblación era evidente, y aunque al salir del bar, que daba a las pistas deportivas, vimos a tres niños jugando, en general parece que su elección como objetivo crítico para superar el reto demográfico parece tan justa como imposible de superar.
 
 ## Vencer el reto demográfico a través del patrimonio
 
+Vencer el reto pasa, casi siempre, por examinar sus causas. La despoblación de Rubite es relativamente reciente y viene del incremento de los costes de los cultivos tradicionales (habichuelillas verdes) y de los problemas de comunicación que tiene con el resto de la provincia. Las carreteras que llegan al pueblo, una desde la Alpujarra, prácticamente imposible, y otra desde la costa, no permiten el paso de autobuses, lo que impide el paso del transporte público tradicional.
+![Rubite en el catastro de Ensenada](Rubite-catastro-ensenada.png)
+Rubite ya figuraba en el catastro de Ensenada [@catastro], con una serie de cultivos; su población en esa época era similar a la actual, de hecho. Desde los años 60, la emigración fue despoblando la ciudad, y los que pudieron se fueron a ciudades como Granada o a otros municipios de la Costa Tropical. La inmigración no logró sustituirlo, aunque un libro escrito por un ciudadano británico atrajo a cierta cantidad de extranjeros; los británicos constituyen ahora la comunidad más numerosa entre la comunidad inmigrante, que constituye aproximadamente una sexta parte de la población.
 
+![Lars y Erika](img/lars-erika-rubite.jpg)
+
+Esta presencia resulta bastant evidente en las placas de las casas, como la que se muestra. Sin embargo, esta inmigración no es capaz de compensar el declive de la población.
+
+Como es evidente, el patrimonio cultural y natural de los pueblos expuestos a la despoblación acaba deteriorándose simplemente por falta de cuidado. En diferentes trabajos [@conservacion,@ballesteros2021linking] se pone en relieve que el patrimonio también puede ser una solución a esta despoblación, proporcionando una economía de servicios que ponga en valor este patrimonio que arraigue a diferentes familias y proporcione incentivos para la conservación del mismo a la vez que crea puestos de trabajo que permitan a la gente vivir en el lugar.
+
+La situación y catalogación de este patrimonio, desgraciadamente, es desoladora. La base de datos del IAPH [lista 4 bienes inmuebles](https://guiadigital.iaph.es/municipio/2812/rubite). Uno de ellos, desgraciadamente, llamado "Molino de Rubite", no existe. Ni en Google Maps ni in situ, ni de hecho en ningún otro documento, hemos sido capaces de encontrarlo.
+
+![Iglesia de la Inmaculada](img/iglesia-rubite.jpg)
+
+La iglesia parroquial de La Inmaculada tiene una placa, puesta por la Diputación, que pone "Iglesia del Rosario". En la [página web creada para el pueblo por la diputación](https://www.rubite.es/municipio/rutas-turisticas-e-hitos-de-interes/) (donde, por cierto, si pulsas en "Rutas turísticas" te aparece la Alhambra) figura tanto con un nombre como con el otro, en dos párrafos, sin que nadie se haya molestado en corregirlo.
+
+Pero eso no es lo peor.
+
+![Aljibe derruido de Rubite](img/aljibe-rubite.jpg)
+
+Este aljibe nazarí, que sí aparece en Google Maps y de hecho tiene una indicación en la carretera, y que en una foto de 2015 (de la comisión "Film in Granada") aparece íntegro, presenta hoy este aspecto lamentable, desolador. Pero es que además no está catalogado.
 
 
 
