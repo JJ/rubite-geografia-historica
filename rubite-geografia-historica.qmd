@@ -9,7 +9,25 @@ link-citations: true
 
 ## Introducción
 
-En el año 2025, la Junta de Andalucía ha publicado su primera estrategia frente al desafío demográfico en Andalucía que abarca los años 2025 al 30 [@estrategia].
+En el año 2025, la Junta de Andalucía ha publicado su primera estrategia frente al desafío demográfico en Andalucía que abarca los años 2025 al 30 [@estrategia]. En ese documento se enumeran las consecuencias negativas de la despoblación y se establecen 9 indicadores relacionados con la misma, con valores por debajo de los cuales el municipio tiene indicios de estar en una situación de despoblación o en camino a la misma
+
+- Densidad de población: < 20 habitantes/Km2
+- Tasa de crecimiento poblacional: < 0%
+- Tasa ce crecimiento vegetativo: < -10%
+- Índice de envejecimiento: > 200%
+- Índice de dependencia: > 50%
+- Tasa migratoria: < 0%
+- Edad media de la población: > 50 años
+- Ratio de masculinidad: > 105%
+- Tasa de desempleo: > 20,3%
+
+El valor de referencia es el año 2024; en estos factores están tanto aquellos que indican un declive cierto de la población como aquellos, como la tasa de paro, que indican que la población va a abandonar en el futuro buscando mejores oportunidades. El documento incluye una lista de los municipios en cada una de las provincias andaluzas con una prioridad de actuación alta (si cumplen entre 7 y 9 de estos criterios). Granada, con 30 municipios, es la provincia que tiene más con una prioridad alta, 30 de los 77 que hay en toda Andalucía. Esos municipios se concentranen las zonas montañosas de la Contraviesa y Cartuja, en el Altiplano y alrededores, y por la zona de Alhama. Por cercanía y por la facilidad para llevar a cabo un trabajo de campo, elegí Rubite, uno de los dos municipios que, además, tiene costa, lo que representa una paradoja considerable.
+
+## Rubite
+
+
+
+
 
 
 
