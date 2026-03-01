@@ -16,15 +16,15 @@ language:
 
 En el año 2025, la Junta de Andalucía ha publicado su primera estrategia frente al desafío demográfico en Andalucía que abarca los años 2025 al 30 [@estrategia]. En ese documento se enumeran las consecuencias negativas de la despoblación y se establecen 9 indicadores relacionados con la misma, con valores por debajo de los cuales el municipio tiene indicios de estar en una situación de despoblación o en camino a la misma
 
-- Densidad de población: < 20 habitantes/Km2
-- Tasa de crecimiento poblacional: < 0%
-- Tasa de crecimiento vegetativo: < -10%
-- Índice de envejecimiento: > 200%
-- Índice de dependencia: > 50%
-- Tasa migratoria: < 0%
-- Edad media de la población: > 50 años
-- Ratio de masculinidad: > 105%
-- Tasa de desempleo: > 20,3%
+-   Densidad de población: \< 20 habitantes/Km2
+-   Tasa de crecimiento poblacional: \< 0%
+-   Tasa de crecimiento vegetativo: \< -10%
+-   Índice de envejecimiento: \> 200%
+-   Índice de dependencia: \> 50%
+-   Tasa migratoria: \< 0%
+-   Edad media de la población: \> 50 años
+-   Ratio de masculinidad: \> 105%
+-   Tasa de desempleo: \> 20,3%
 
 El valor de referencia es el año 2024; en estos factores están tanto aquellos que indican un declive cierto de la población como aquellos, como la tasa de paro, que indican que la población va a abandonar en el futuro buscando mejores oportunidades. El documento incluye una lista de los municipios en cada una de las provincias andaluzas con una prioridad de actuación alta (si cumplen entre 7 y 9 de estos criterios). Granada, con 30 municipios, es la provincia que tiene más con una prioridad alta, 30 de los 77 que hay en toda Andalucía. Esos municipios se concentran en las zonas montañosas de la Contraviesa y Cartuja, en el Altiplano y alrededores, y por la zona de Alhama. Por cercanía y por la facilidad para llevar a cabo un trabajo de campo, elegí Rubite, uno de los dos municipios que, además, tiene costa, lo que representa una paradoja considerable.
 
@@ -32,17 +32,13 @@ El valor de referencia es el año 2024; en estos factores están tanto aquellos 
 
 ![Vista de Rubite](img/rubite-placa.jpg)
 
-
-![Calle Rejas](img/rubite-calle-rejas.jpg)
-Llegamos al pueblo desde Granada; se llega por una desviación de la autovía por una carretera infame, con curvas y cuestas que hacen que a veces haya que descender hasta primera marcha y 20 kilómetros por hora; unos 20 kilómetros que se llevan tres cuartos de hora. Aunque hay bastantes coches aparcados y a la entrada había una persona trabajando en un coche, no vimos a nadie hasta que llevábamos un rato en el pueblo. El comercio se limita a una panadería-badulaque y un bar. Viendo una llave en una puerta de una casa, alertamos a una vecina que pasaba por allí que nos dijo que no pasaba nada, que ella también lo hacía. No sólo está despoblada, sino que además nunca va nadie allí: sólo con que hubiera un turista de vez en cuando, ese tipo de prácticas desaparecerían rápidamente.
+![Calle Rejas](img/rubite-calle-rejas.jpg) Llegamos al pueblo desde Granada; se llega por una desviación de la autovía por una carretera infame, con curvas y cuestas que hacen que a veces haya que descender hasta primera marcha y 20 kilómetros por hora; unos 20 kilómetros que se llevan tres cuartos de hora. Aunque hay bastantes coches aparcados y a la entrada había una persona trabajando en un coche, no vimos a nadie hasta que llevábamos un rato en el pueblo. El comercio se limita a una panadería-badulaque y un bar. Viendo una llave en una puerta de una casa, alertamos a una vecina que pasaba por allí que nos dijo que no pasaba nada, que ella también lo hacía. No sólo está despoblada, sino que además nunca va nadie allí: sólo con que hubiera un turista de vez en cuando, ese tipo de prácticas desaparecerían rápidamente.
 
 En una entrevista con la concesionaria del bar, cuya familia tuvo que empadronarse en el pueblo para tener la concesión, nos comentó que sólo había 60 familias y un único niño, al que llevaban en taxi todos los días a Castell de Ferro al colegio. Hasta que ellos obtuvieron la concesión, en julio, el pueblo había estado sin bar. En general, la despoblación era evidente, y aunque al salir del bar, que daba a las pistas deportivas, vimos a tres niños jugando, en general parece que su elección como objetivo crítico para superar el reto demográfico parece tan justa como imposible de superar.
 
 ## Vencer el reto demográfico a través del patrimonio
 
-Vencer el reto pasa, casi siempre, por examinar sus causas. La despoblación de Rubite es relativamente reciente y viene del incremento de los costes de los cultivos tradicionales (habichuelillas verdes) y de los problemas de comunicación que tiene con el resto de la provincia. Las carreteras que llegan al pueblo, una desde la Alpujarra, prácticamente imposible, y otra desde la costa, no permiten el paso de autobuses, lo que impide el paso del transporte público tradicional.
-![Rubite en el catastro de Ensenada](Rubite-catastro-ensenada.png)
-Rubite ya figuraba en el catastro de Ensenada [@catastro], con una serie de cultivos; su población en esa época era similar a la actual, de hecho. Desde los años 60, la emigración fue despoblando la ciudad, y los que pudieron se fueron a ciudades como Granada o a otros municipios de la Costa Tropical. La inmigración no logró sustituirlo, aunque un libro escrito por un ciudadano británico atrajo a cierta cantidad de extranjeros; los británicos constituyen ahora la comunidad más numerosa entre la comunidad inmigrante, que constituye aproximadamente una sexta parte de la población.
+Vencer el reto pasa, casi siempre, por examinar sus causas. La despoblación de Rubite es relativamente reciente y viene del incremento de los costes de los cultivos tradicionales (habichuelillas verdes) y de los problemas de comunicación que tiene con el resto de la provincia. Las carreteras que llegan al pueblo, una desde la Alpujarra, prácticamente imposible, y otra desde la costa, no permiten el paso de autobuses, lo que impide el paso del transporte público tradicional. ![Rubite en el catastro de Ensenada](Rubite-catastro-ensenada.png) Rubite ya figuraba en el catastro de Ensenada [@catastro], con una serie de cultivos; su población en esa época era similar a la actual, de hecho. Desde los años 60, la emigración fue despoblando la ciudad, y los que pudieron se fueron a ciudades como Granada o a otros municipios de la Costa Tropical. La inmigración no logró sustituirlo, aunque un libro escrito por un ciudadano británico atrajo a cierta cantidad de extranjeros; los británicos constituyen ahora la comunidad más numerosa entre la comunidad inmigrante, que constituye aproximadamente una sexta parte de la población.
 
 ![Lars y Erika](img/lars-erika-rubite.jpg)
 
@@ -61,7 +57,6 @@ Pero eso no es lo peor.
 ![Aljibe derruido de Rubite](img/aljibe-rubite.jpg)
 
 Este aljibe nazarí, que sí aparece en Google Maps y de hecho tiene una indicación en la carretera, y que en una foto de 2015 (de la comisión "Film in Granada") aparece íntegro, presenta hoy este aspecto lamentable, desolador. Pero es que además no está catalogado.
-
 
 ## Propuestas de mejora a través del turismo sostenible y el patrimonio.
 
@@ -85,7 +80,7 @@ Es evidente que si no hay ningún tipo de actividad organizada, a nadie se le ha
 
 Andalucía tiene una cantidad de patrimonio envidiable, pero gran parte del mismo está en localidades en vías de despoblación o que se abandonarán en el medio o largo plazo. Rubite perderá la tercera parte de su ya exigua población en unos 20 años si no se toma alguna medida para evitarlo.
 
-Una ruta que incluya elementos patrimoniales, elementos patrimonializados como el graffiti, construcciones tradicionales y elementos de hiperarte como el *thomasson* hecha de forma periódica y predecible, por ejemplo dos veces durante el fin de semana, varias veces durante la semana en los meses de verano, y a petición de los interesados, podía no sólo ayudar a crear una pequeña economía de servicios en torno al mismo, sino también a crear elementos identitarios en la población que ayuden a su identificación con el municipio y a incentivar el retorno y la permanencia en el mismo.
+Una ruta que incluya elementos patrimoniales, elementos patrimonializados como el graffiti, construcciones tradicionales y elementos de hiperarte como el *thomasson,* hecha de forma periódica y predecible, por ejemplo dos veces durante el fin de semana, varias veces durante la semana en los meses de verano, y a petición de los interesados, podía no sólo ayudar a crear una pequeña economía de servicios en torno al mismo, sino también a crear elementos identitarios en la población que ayuden a su identificación con el municipio y a incentivar el retorno y la permanencia en el mismo.
 
 ## Referencias
 
